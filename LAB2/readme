@@ -1,0 +1,4 @@
+The goal of this experiment was to study the characteristics of a packed bed distillation column under normal operation. Water - methanol mixture was fed to a distillation column of 0.10 diameter and 1.35 m height, and containing random Pall Ring packing. Vapor mass flow
+rate and reflux ratio were manipulated individually with vapor mass flow rates varied between 13.6 to 25.5 kg/h and reflux ratio varied between 0.85 to 2.5. The objectives of this experiment were to determine the pressure drop and experimental height equivalent to a theoretical plate (HETP) of the column as a function of the vapour rate and reflux ratio under normal operation. The results were compared with predicted values and trends.
+
+Tools for Data Analysis: Excel VBA. -- I contributed to 95% of the code
