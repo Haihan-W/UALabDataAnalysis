@@ -1,3 +1,6 @@
+# For lab info and featured results: refer to '1.Summary_LabAndResults.pdf' 
+# For summary of programming using MATLAB and data analysis: refer to '2.Summary_Code.pdf'
+
 In this experiment, a 0.665 L constant volume batch reactor (CVBR) was first filled with sodium hydroxide solution and heated to reaction temperatures between 21°C and 38.5°C. The process was operated under isothermal condition and assumed to be well mixed. Ethyl acetate solution was then injected into the reactor to initiate the reaction. Conductivity of the solution was measured as a function of time during the experiment under different reaction temperatures.
 
 The objectives of this experiment were to determine the rate constants using integration and differential methods and activation energy for the reaction between sodium hydroxide and ethyl acetate, and to determine the concentration of ethyl acetate at which the reaction starts to deviate from second order behaviour. 
